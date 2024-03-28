@@ -1,0 +1,29 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.tableContainer {
+  background-color :rgb(241, 247, 253);
+}
+
+.mainConatiner {
+  height: 100%;
+  flex-direction: column;
+  justify-content: center;
+  display: flex;
+  padding: 100px;
+  background-color: rgb(130, 130, 135);
+}
+
+h3{
+  padding-left: 2vw;
+  width: 100vw;
+  border-top: 1px solid gray;
+  padding-top: 5px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid gray;
+  
+}
